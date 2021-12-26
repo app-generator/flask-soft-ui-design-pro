@@ -18,7 +18,7 @@
 
 > Links
 
-- 👉 [Soft UI Design PRO Flask](https://jinja-soft-ui-design-pro.appseed-srv1.com) - LIVE Demo
+- 👉 [Soft UI Design PRO Flask](https://flask-soft-ui-design-pro.appseed-srv1.com) - LIVE Demo
 - 👉 [Soft UI Design PRO Flask](https://appseed.us/product/flask-soft-ui-design-pro) - Product Page
 
 <br />
