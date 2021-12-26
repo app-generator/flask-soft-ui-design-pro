@@ -23,7 +23,7 @@
 
 <br />
 
-## Quick Start in `Docker`
+## ✨ Quick Start in `Docker`
 
 > Download the sources from the product page and `unzip` the archive 
 
@@ -46,7 +46,7 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
-## Build from sources
+## ✨ Build from sources
 
 > Download the sources from the product page and `unzip` the archive 
 
@@ -91,7 +91,7 @@ $ # Access the app in browser: http://127.0.0.1:5000/
 
 <br />
 
-## Code-base structure
+## ✨ Code-base structure
 
 The project has a super simple structure, represented as bellow:
 
@@ -145,7 +145,7 @@ The project has a super simple structure, represented as bellow:
 
 <br />
 
-## Recompile CSS
+## ✨ Recompile CSS
 
 To recompile SCSS files, follow this setup:
 
@@ -265,7 +265,7 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## Credits & Links
+## ✨ Credits & Links
 
 - [Flask Framework](https://www.palletsprojects.com/p/flask/) - The official website
 - [Boilerplate Code](https://appseed.us/boilerplate-code) - Index provided by **AppSeed**
