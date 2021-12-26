@@ -8,7 +8,7 @@
 
 - `Up-to-date dependencies`: **Flask 2.0.1**
 - [SCSS compilation](#recompile-css) via **Gulp**
-- UI Kit: **Material Kit - v3.0.0** (Bootstrap 5 Version) by **Creative-Tim**
+- UI Kit: **Soft UI Design PRO** (Bootstrap 5 Version) by **Creative-Tim**
 - `DB Tools`: SQLite, Flask-SQLAlchemy ORM
 - Session-Based auth flow (login, register)
 - `Deployment`: **Docker**, Gunicorn / Nginx, Heroku
