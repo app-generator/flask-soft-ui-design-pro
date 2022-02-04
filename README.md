@@ -151,7 +151,7 @@ To recompile SCSS files, follow this setup:
 
 <br />
 
-**Step #1** - Install tools
+> **Step #1** - Install tools
 
 - [NodeJS](https://nodejs.org/en/) 12.x or higher
 - [Gulp](https://gulpjs.com/) - globally 
@@ -160,7 +160,7 @@ To recompile SCSS files, follow this setup:
 
 <br />
 
-**Step #2** - Change the working directory to `assets` folder
+> **Step #2** - Change the working directory to `assets` folder
 
 ```bash
 $ cd app/static/assets
@@ -168,7 +168,7 @@ $ cd app/static/assets
 
 <br />
 
-**Step #3** - Install modules (this will create a classic `node_modules` directory)
+> **Step #3** - Install modules (this will create a classic `node_modules` directory)
 
 ```bash
 $ npm install
@@ -178,7 +178,7 @@ $ yarn
 
 <br />
 
-**Step #4** - Edit & Recompile SCSS files 
+> **Step #4** - Edit & Recompile SCSS files 
 
 ```bash
 $ gulp scss
