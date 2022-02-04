@@ -188,7 +188,7 @@ The generated file is saved in `static/assets/css` directory.
 
 <br />
 
-## Deployment
+## ✨ Deployment
 
 The app is provided with a basic configuration to be executed in [Docker](https://www.docker.com/), [Heroku](https://www.heroku.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
 
