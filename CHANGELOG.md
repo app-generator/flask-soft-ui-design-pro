@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.3] 2022-06-14
+### Improvements
+
+- Built with [Soft UI Design PRO Generator](https://appseed.us/generator/soft-ui-design-pro/)
+  - Timestamp: `2022-06-14 10:26`
+
 ## [1.0.2] 2022-04-01
 ### Fixes
 
