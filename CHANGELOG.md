@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.4] 2022-08-10
+### Improvements (Minor)
+
+- Links CleanUP
+  - All `Buy Now` links replaces with DOCS
+
 ## [1.0.3] 2022-06-14
 ### Improvements
 
